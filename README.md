@@ -1,4 +1,4 @@
-### 👋 Hi, I’m abd-allah @bouiali.
+# 👋 Hi, I’m abd-allah @bouiali.
 - 👀 I’m interested in front-end web development.
 - 🌱 I’m currently learning react.js.
 - 💞️ I’m looking to collaborate on open source projects.
